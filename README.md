@@ -88,19 +88,6 @@ A mathematical study of a **nonlinear mass–spring system** with kinetic fricti
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanisha-Dua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-Dua&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=Tanisha-Dua&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 💡 *"Data is the new oil, but insight is the engine."*
